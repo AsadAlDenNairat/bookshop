@@ -424,6 +424,12 @@ section .main .main_img img{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
+.blog .blog_box .blog_card{
+    margin: 0 auto;
+    width: 450px;
+    height: auto;
+    box-shadow: 0 0 8px rgba(0,0,0,0.5);
+}
 
 
 
