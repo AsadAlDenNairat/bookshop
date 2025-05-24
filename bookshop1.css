@@ -444,6 +444,9 @@ section .main .main_img img{
 .blog .blog_box .blog_card .blog_tag{
     padding: 20px;
 }
+.blog .blog_box .blog_card .blog_tag h2{
+    color: #089da1;
+}
 
 
 
