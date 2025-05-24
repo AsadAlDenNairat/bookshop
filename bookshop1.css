@@ -383,7 +383,11 @@ section .main .main_img img{
     padding: 15px;
     margin: 0 12px;
 }
-
+.reviews .review_box .review_card .card_top img{
+    width: 80px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
 .reviews .review_box .review_card i{
     float: right;
     font-size: 120px;
@@ -391,11 +395,7 @@ section .main .main_img img{
     bottom: 20px;
     color: #eaeaea;
 }
-.reviews .review_box .review_card .card_top img{
-    width: 80px;
-    border-radius: 50%;
-    margin-bottom: 10px;
-}
+
 
 .reviews .review_box .review_card .card p{
     margin: 10px 0 10px 0;
