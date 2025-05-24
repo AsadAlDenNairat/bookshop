@@ -68,10 +68,6 @@ section .main h1{
     top: 80px;
     left: 25px;
 }
-
-section .main h1 span{
-    color: #089da1;
-}
 section .main p{
     width: 650px;
     text-align: justify;
@@ -80,6 +76,10 @@ section .main p{
     top: 125px;
     left: 25px;
 }
+section .main h1 span{
+    color: #089da1;
+}
+
 
 section .main .main_tag .main_btn{
     background: #089da1;
