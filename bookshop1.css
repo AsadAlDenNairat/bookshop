@@ -441,7 +441,9 @@ section .main .main_img img{
     object-fit: cover;
     object-position: center;
 }
-
+.blog .blog_box .blog_card .blog_tag{
+    padding: 20px;
+}
 
 
 
