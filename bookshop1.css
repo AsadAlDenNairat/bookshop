@@ -453,7 +453,13 @@ section .main .main_img img{
     text-align: justify;
     line-height: 22px;
 }
-
+.blog .blog_box .blog_card .blog_tag .blog_icon{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #089da1;
+    cursor: pointer;
+}
 
 
 
