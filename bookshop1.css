@@ -392,7 +392,15 @@ section .main .main_img img{
     color: #089da1;
     padding: 0 1px;
 }
+/*Banner*/
 
+.banner{
+    width: 100%;
+    height: 50vh;
+    background-image: url(image/banner.jpg);
+    background-size: cover;
+    background-position: center;
+}
 
 
 
