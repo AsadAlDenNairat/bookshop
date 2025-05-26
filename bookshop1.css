@@ -524,6 +524,15 @@ footer .footer_main .tag .search_bar input{
     font-size: 13px;
     background: none;
 }
+footer .footer_main .tag .search_bar button{
+    padding: 7px 15px;
+    background: #089da1;
+    border: none;
+    margin-top: 15px;
+    border-radius: 25px;
+    color: #fff;
+    cursor: pointer;
+}
 
 
 
