@@ -540,6 +540,10 @@ footer .end{
     padding: 15px;
     color: #000;
 }
+footer .end span{
+    color: #089da1;
+    margin-left: 10px;
+}
 
 
 
